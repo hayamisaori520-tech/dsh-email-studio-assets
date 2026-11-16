@@ -1,4 +1,6 @@
-﻿# Shopify Email Studio captures
+# Shopify Email Studio captures
+
+English · [简体中文](README.zh-CN.md)
 
 Sanitized before/after evidence for the `dsh-plugin-shopify-email-studio`
 DeepSeek Harness plugin. Both captures use a clean DSH 0.2.2-rc.1 web profile
